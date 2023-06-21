@@ -23,7 +23,7 @@ A jogabilidade é simples por ser um jogo Oneclick basta apenas clicar uma únic
 ## Caso o jogador erre
 
 ![imagem do jogo](26.jpg)
-![imagem do jogo](27jpg)
+![imagem do jogo](27.jpg)
 
 https://www.youtube.com/watch?v=hVxXKPxg_rQ
 
