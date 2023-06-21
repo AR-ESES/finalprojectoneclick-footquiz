@@ -25,6 +25,8 @@ A jogabilidade é simples por ser um jogo Oneclick basta apenas clicar uma únic
 ![imagem do jogo](26.jpg)
 ![imagem do jogo](27.jpg)
 
+#Link do trailer do jogo
+
 https://www.youtube.com/watch?v=hVxXKPxg_rQ
 
 Trabalho elaborado por Rui Machado e Pedro Pereira PME2
