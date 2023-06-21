@@ -5,4 +5,17 @@
 
 ![imagem do jogo](9.jpg)
 
-Footquiz consiste em um jogo ONECLICK de penaltis para aprender matemática, é um jogo educacional para crianças do 1 ao 4 ano para se divertirem a aprender, o jogo irá perguntar várias operações matemáticas e então ao clicar na resposta certa o jogador bate o penalti e acerta, caso o jogador erre a o 
+## No que consiste o jogo?
+
+Footquiz consiste em um jogo ONECLICK de penaltis para aprender matemática, é um jogo educacional para crianças do 1 ao 4 ano para se divertirem a aprender matemática com operações simples, o desafio é acumular mais pontos e bater seu próprio record.
+
+![imagem do jogo](11.jpg)
+
+# COMO JOGAR?
+
+A jogabilidade é simples por ser um jogo Oneclick basta apenas clicar uma única vez que no caso seria na resposta certa ao clicar na resposta certa do número que está dentro da baliza o jogador irá bater o penalti e será golo acumulando então 1 ponto, caso o jogador erre a resposta o guarda redes irá defender a bola e o jogador poderá tentar novamente e assim vai dando continuidade ao jogo.
+
+![imagem do jogo](14.jpg)
+![imagem do jogo](15.jpg)
+
+https://www.youtube.com/watch?v=hVxXKPxg_rQ
