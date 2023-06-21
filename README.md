@@ -15,7 +15,16 @@ Footquiz consiste em um jogo ONECLICK de penaltis para aprender matemática, é 
 
 A jogabilidade é simples por ser um jogo Oneclick basta apenas clicar uma única vez que no caso seria na resposta certa ao clicar na resposta certa do número que está dentro da baliza o jogador irá bater o penalti e será golo acumulando então 1 ponto, caso o jogador erre a resposta o guarda redes irá defender a bola e o jogador poderá tentar novamente e assim vai dando continuidade ao jogo.
 
+## Caso o jogador acerte
+
 ![imagem do jogo](14.jpg)
 ![imagem do jogo](15.jpg)
 
+## Caso o jogador erre
+
+![imagem do jogo](26.jpg)
+![imagem do jogo](27jpg)
+
 https://www.youtube.com/watch?v=hVxXKPxg_rQ
+
+Trabalho elaborado por Rui Machado e Pedro Pereira PME2
