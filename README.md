@@ -32,6 +32,10 @@ Durante o jogo é possível encontrar vários níveis de operações, umas mais 
 ![imagem do jogo](26.jpg)
 ![imagem do jogo](27.jpg)
 
+## Produto oficial
+
+![imagem do jogo](30.png)
+
 ## Link do trailer do jogo
 
 https://www.youtube.com/watch?v=hVxXKPxg_rQ
